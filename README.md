@@ -1,6 +1,6 @@
 # Bidding Project
 
-This is a React-based e-commerce application that includes various features such as user authentication, product management, order management, and supplier management.
+This is a React-based bidding application that includes various features such as user authentication, product management, order management etc.
 
 ## Installation
 
